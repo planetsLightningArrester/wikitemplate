@@ -1,0 +1,23 @@
+{
+  "name": "wikitemplate",
+  "version": "0.0.0",
+  "description": "A bootstrap wiki tamplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetsLightningArrester/wikitemplate.git"
+  },
+  "keywords": [
+    "wiki",
+    "bootstrap"
+  ],
+  "author": "Francisco Gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/planetsLightningArrester/wikitemplate/issues"
+  },
+  "homepage": "https://github.com/planetsLightningArrester/wikitemplate#readme"
+}
