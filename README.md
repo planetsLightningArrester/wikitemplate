@@ -1,17 +1,12 @@
-# wikitemplate
+# Wiki template
 A bootstrap wiki template.
 
-# 1
-Instale no seu computador o [Node JS](https://nodejs.org/en/)
+1. Install [Node JS](https://nodejs.org/en/)
 
-# 2
-Baixe este repositório. Vá para a pasta que você baixou este repositório e execute:
-` npm install `
+2. Download this repository, move into it and run
+> npm ci
 
-# 3
-Execute
-` node . `
+3. Start the server
+> node .
 
-# 4
-Acesse:
-[https://localhost:60000](https://localhost:60000)
+4. Go to [https://localhost:60000](https://localhost:60000)
